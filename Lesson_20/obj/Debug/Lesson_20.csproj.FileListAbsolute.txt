@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\עבודות\Lesson 20\Lesson_20\Lesson_20\bin\Debug\Lesson_20.exe.config
+C:\Users\USER\Desktop\עבודות\Lesson 20\Lesson_20\Lesson_20\bin\Debug\Lesson_20.exe
+C:\Users\USER\Desktop\עבודות\Lesson 20\Lesson_20\Lesson_20\bin\Debug\Lesson_20.pdb
+C:\Users\USER\Desktop\עבודות\Lesson 20\Lesson_20\Lesson_20\obj\Debug\Lesson_20.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\Lesson 20\Lesson_20\Lesson_20\obj\Debug\Lesson_20.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\Lesson 20\Lesson_20\Lesson_20\obj\Debug\Lesson_20.exe
+C:\Users\USER\Desktop\עבודות\Lesson 20\Lesson_20\Lesson_20\obj\Debug\Lesson_20.pdb
